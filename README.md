@@ -1,2 +1,2 @@
-# web_teknolojileri_-dev
+# web_teknolojileri_odev
 Web Teknolojileri Ödevi
